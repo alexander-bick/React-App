@@ -1,5 +1,5 @@
-import EntryForm from "./EntryForm.jsx";
-import EntrySection from "./EntrySection.jsx";
+import { EntryForm } from "./EntryForm/index.jsx";
+import { EntrySection } from "./EntrySection/index.jsx";
 
 export default function MainSection() {
     return (

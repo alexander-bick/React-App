@@ -1,4 +1,4 @@
-import "./EntryList.css";
+import "./EntryList/EntryList.css";
 
 export default function EntryList() {
     return (

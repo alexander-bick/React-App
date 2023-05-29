@@ -1,6 +1,6 @@
 import "./Tabs.css"
 
-export default function Tabs() {
+export default function TabBar() {
     return (
         <>
             <div className="tab-bar">

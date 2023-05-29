@@ -1,4 +1,4 @@
-import "./EntryForm.css";
+import "./EntryForm/EntryForm.css";
 
 export default function EntryForm() {
     return(
