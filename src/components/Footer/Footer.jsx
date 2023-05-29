@@ -1,6 +1,6 @@
-import "./Footer/Footer.css";
+import "./Footer.css";
 
-export default function Footer() {
+export function Footer() {
     return (
         <footer>
             <p className="footer_text">Journal App - 2028</p>

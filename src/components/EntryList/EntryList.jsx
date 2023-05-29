@@ -1,6 +1,6 @@
-import "./EntryList/EntryList.css";
+import "./EntryList.css";
 
-export default function EntryList() {
+export function EntryList() {
     return (
       <>
         <section>

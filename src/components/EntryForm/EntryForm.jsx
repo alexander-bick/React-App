@@ -1,6 +1,6 @@
-import "./EntryForm/EntryForm.css";
+import "./EntryForm.css";
 
-export default function EntryForm() {
+export function EntryForm() {
     return(
         <>
         <form>
