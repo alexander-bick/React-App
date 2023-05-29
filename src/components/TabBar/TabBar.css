@@ -1,0 +1,32 @@
+.tab-bar {
+    margin-top: 50px;
+    display: flex;
+    justify-content: start;
+    gap: 20px;
+  }
+
+  .entries_tab {
+    font-weight: bolder;
+    color: var(--color-nemo);
+  }
+  
+  .entries_badge {
+    background-color: var(--color-nemo);
+    color: var(--color-foam);
+    font-weight: normal;
+    padding: 3px 10px;
+    border-radius: 80px;
+    
+  }
+  
+  .favourites_tab {
+    font-weight: bolder;
+  }
+
+  .favourites_badge {
+    background-color: var(--color-water-10);
+    color: var(--color-granite);
+    font-weight: normal;
+    padding: 3px 10px;
+    border-radius: 80px;
+  }
